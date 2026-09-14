@@ -1,0 +1,110 @@
+{
+  "success": true,
+  "updatedAt": "2026-09-14T17:00:00+03:00",
+  "upcoming": [
+    {
+      "date": "20.09.2026 18:00",
+      "homeTeam": "СПАРТАК-ШВСМ",
+      "awayTeam": "Динамо",
+      "venue": "Київ",
+      "matchUrl": "https://handball.org.ua/",
+      "broadcast": ""
+    },
+    {
+      "date": "27.09.2026 18:00",
+      "homeTeam": "Галичанка",
+      "awayTeam": "СПАРТАК-ШВСМ",
+      "venue": "Львів",
+      "matchUrl": "https://handball.org.ua/",
+      "broadcast": ""
+    }
+  ],
+  "results": [
+    {
+      "date": "06.09.2026 18:00",
+      "homeTeam": "СПАРТАК-ШВСМ",
+      "awayTeam": "Карпати",
+      "score": "31 : 27",
+      "scoreSource": "Демо-дані для GitHub Pages",
+      "matchUrl": "https://handball.org.ua/",
+      "broadcast": ""
+    },
+    {
+      "date": "30.08.2026 16:00",
+      "homeTeam": "Дніпрянка",
+      "awayTeam": "СПАРТАК-ШВСМ",
+      "score": "25 : 29",
+      "scoreSource": "Демо-дані для GitHub Pages",
+      "matchUrl": "https://handball.org.ua/",
+      "broadcast": ""
+    }
+  ],
+  "pending": [],
+  "standings": [
+    {
+      "place": 1,
+      "team": "Галичанка",
+      "played": 4,
+      "wins": 4,
+      "winsPenalty": 0,
+      "losses": 0,
+      "lossesPenalty": 0,
+      "goalsFor": 132,
+      "goalsAgainst": 101,
+      "difference": 31,
+      "points": 12
+    },
+    {
+      "place": 2,
+      "team": "СПАРТАК-ШВСМ",
+      "played": 4,
+      "wins": 3,
+      "winsPenalty": 0,
+      "losses": 1,
+      "lossesPenalty": 0,
+      "goalsFor": 126,
+      "goalsAgainst": 108,
+      "difference": 18,
+      "points": 9
+    },
+    {
+      "place": 3,
+      "team": "Карпати",
+      "played": 4,
+      "wins": 2,
+      "winsPenalty": 0,
+      "losses": 2,
+      "lossesPenalty": 0,
+      "goalsFor": 118,
+      "goalsAgainst": 119,
+      "difference": -1,
+      "points": 6
+    },
+    {
+      "place": 4,
+      "team": "Динамо",
+      "played": 4,
+      "wins": 1,
+      "winsPenalty": 0,
+      "losses": 3,
+      "lossesPenalty": 0,
+      "goalsFor": 105,
+      "goalsAgainst": 124,
+      "difference": -19,
+      "points": 3
+    },
+    {
+      "place": 5,
+      "team": "Дніпрянка",
+      "played": 4,
+      "wins": 0,
+      "winsPenalty": 0,
+      "losses": 4,
+      "lossesPenalty": 0,
+      "goalsFor": 98,
+      "goalsAgainst": 127,
+      "difference": -29,
+      "points": 0
+    }
+  ]
+}
